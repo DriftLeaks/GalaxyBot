@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "SilverBot"
+name = "GalaxyBot"
 version = "0.0.1"
 description = ""
-authors = ["mxnty <silverbotbusiness@protonmail.com>"]
+authors = [""]
 
 [tool.poetry.dependencies]
 python = "^3.8"
